@@ -2,12 +2,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
-<details>
-<summary><strong>🎧 Coding & Chill Vibe</strong></summary>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com) <br>
-
-</details>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=AyoubKamouni&style=flat&color=blue&label=PROFILE+VIEWS)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ayoub.kamouni.2008@gmail.com)
