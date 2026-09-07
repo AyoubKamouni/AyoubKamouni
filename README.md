@@ -55,8 +55,8 @@ class AboutMe extends Developer {
 <div align="center">
 <a href="https://github.com/AyoubKamouni">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyoubKamouni&theme=nord_dark" width="48%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyoubKamouni&theme=nord_dark" width="48%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyoubKamouni&theme=nord_dark" width="35%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyoubKamouni&theme=nord_dark" width="60%">
 
 </a>
 
