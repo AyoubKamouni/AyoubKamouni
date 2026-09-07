@@ -10,7 +10,8 @@
 </details>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=AyoubKamouni&style=flat&color=blue&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAyoubKamouni&count_bg=%23007ACC&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ayoub.kamouni.2008@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ox.r9_)
 <br>
 </div>
 
