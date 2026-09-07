@@ -55,16 +55,15 @@ class AboutMe extends Developer {
 <div align="center">
 <a href="https://github.com/AyoubKamouni">
 
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyoubKamouni&theme=nord_dark" width="48%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyoubKamouni&theme=nord_dark" width="48%">
 
 </a>
 
 <details>
   <summary>More stats</summary>
   
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AyoubKamouni&theme=nord_dark&utcOffset=1">
 
 </details>
   
