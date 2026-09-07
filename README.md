@@ -29,24 +29,33 @@
 
 ```dart
 // Profile: Ayoub Kamouni
-class AboutMe extends Developer { 
+class AboutMe extends FullStackDeveloper { 
   final String location = "Meknes, Morocco";
-  final String education = "ISTA Bab Tizimi - Développement Digital";
+  final String education = "ISTA Bab Tizimi - Développement Digital (Full-Stack)";
+  
   const mySkills = {  
-    "Frontend" : { "HTML", "CSS", "JavaScript", "React" },
-    "Backend" : { "PHP", "Node.js", "Python" },
-    "GameDev" : { "Unreal Engine", "C++" },
-    "Databases" : { "MySQL" },
-    "Tools" : { "Git", "GitHub", "VS Code" }
+    "Frontend"  : { "HTML5", "CSS3", "JavaScript", "React", "Tailwind CSS", "Bootstrap" },
+    "Backend"   : { "PHP", "Node.js", "Express.js", "Python", "REST APIs" },
+    "Databases" : { "MySQL", "PostgreSQL" },
+    "DevOps & Network" : { "Git", "GitHub", "Cloudflare Tunnels", "Tailscale", "Netlify" },
+    "Side Quest": { "Unreal Engine (Indie GameDev)" }
   };
 }
 ```
 
-- 💡 &nbsp; I'm currently learning **Unreal Engine & Game Development**. <br>
-- 🌐 &nbsp; I like exploring **Web Development & New Frameworks**. <br>
-- 💬 &nbsp; Ask me about **Web Dev, PHP, Game Dev, or anything tech**. <br>
-- 📍 &nbsp; Based in **Meknes, Morocco** — studying at **ISTA Bab Tizimi**. <br>
-- ⚡ &nbsp; Fun fact: Debugging one small bug can burn **150 calories** in stress alone. <br>
+🌐   Primary Focus: Building modern Full-Stack Web Applications & RESTful APIs.
+
+
+📍   Based in Meknes, Morocco — 2nd Year Full-Stack Student at ISTA Bab Tizimi.
+
+
+🎮   Side Hobby: Exploring Unreal Engine and game mechanics in my free time.
+
+
+💬   Ask me about Full-Stack Web Dev, PHP, Node.js, Deployment, or Networking.
+
+
+⚡   Fun fact: Debugging one small bug can burn 150 calories in stress alone.
 
 <div align="center">
 <a href="https://github.com/AyoubKamouni">
