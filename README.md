@@ -1,5 +1,5 @@
 <div align="center" width="50">
-<img src="https://github.com/AyoubKamouni/AyoubKamouni/blob/main/kamouni_ayoub.gif" width="60%"/> <br>
+<img src="https://github.com/AyoubKamouni/AyoubKamouni/blob/main/kamouni_ayoub_banner%20(1).gif" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
 
